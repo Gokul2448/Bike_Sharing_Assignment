@@ -53,7 +53,9 @@ Further, the model will be a good way for management to understand the demand dy
 1) The R^2 value calculated on test data is 0.796 and it is almost matching with the train data value.
 2) Adjusted R^2 value was also calculated on test data and value of 0.76 was obtained compared to 0.83 value for train data
 
-
+- ## Conclusion 3 from the analysis of train/test data 
+Total Depending factors on bike demand are as below
+yr , temp , summer, winter ,sep ,holiday,windspeed,sun,Light_SnowRain ,Misty_cloudy
 
 ## Technologies Used
 - [Python](https://www.python.org/) - version 3.14
@@ -61,7 +63,7 @@ Further, the model will be a good way for management to understand the demand dy
 - [Numpy](https://numpy.org/) - version 1.26.4
 - [Pandas](https://pandas.pydata.org/) - version 2.2.2
 - [Seaborn](https://seaborn.pydata.org/) - version 0.13.2
-
+- [scikit-learn](https://pypi.org/project/scikit-learn/) version 1.6.1
 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
