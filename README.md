@@ -67,7 +67,6 @@ Further, the model will be a good way for management to understand the demand dy
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
 - UpGrad tutorials on Linear Regression and Multiple Linear Regression on the learning platform
 
 
