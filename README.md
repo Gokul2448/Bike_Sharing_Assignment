@@ -55,6 +55,7 @@ Further, the model will be a good way for management to understand the demand dy
 
 - ## Conclusion 3 from the analysis of train/test data 
 Total Depending factors on bike demand are as below
+
 yr , temp , summer, winter ,sep ,holiday,windspeed,sun,Light_SnowRain ,Misty_cloudy
 
 ## Technologies Used
